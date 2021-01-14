@@ -1,7 +1,7 @@
 Usage
 ===
 
-# Configuration and features
+## Configuration and features
 
 Drupal core (what you get when you download and extract a drupal-x.y.tar.gz or
 drupal-x.y.zip file from https://www.drupal.org/project/drupal) has what you
@@ -24,7 +24,7 @@ More about configuration:
  * See also: "Developing for Drupal" for writing your own modules, below.
 
 
-# Installation profiles
+## Installation profiles
 
 Installation profiles define additional steps (such as enabling modules,
 defining content types, etc.) that run after the base installation provided
@@ -50,7 +50,7 @@ More about installation profiles and distributions:
  * Develop your own installation profile or distribution:
    https://www.drupal.org/docs/distributions/creating-distributions
 
-# Appearance
+## Appearance
 
 In Drupal, the appearance of your site is set by the theme (themes are
 extensions that set fonts, colors, and layout). Drupal core comes with several
@@ -64,7 +64,7 @@ More about themes:
    https://www.drupal.org/docs/theming-drupal
 
 
-# Developing for Drupal
+## Developing for Drupal
 
 Drupal contains an extensive API that allows you to add to and modify the
 functionality of your site. The API consists of "hooks", which allow modules to
