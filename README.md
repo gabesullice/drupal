@@ -1,4 +1,4 @@
-Drupal
+![Drupal Logo][logo] Drupal
 ===
 
 Drupal is an open source content management platform supporting a variety of
@@ -66,6 +66,7 @@ Learn about the [Drupal trademark and logo policy here][trademark].
 [issue queue]: https://www.drupal.org/project/issues/drupal
 [issue forks]: https://www.drupal.org/drupalorg/docs/gitlab-integration/issue-forks-merge-requests
 [documentation]: https://www.drupal.org/documentation
+[logo]: /core/misc/logo/drupal-logo.svg
 [changelog]: https://www.drupal.org/list-changes/drupal
 [modules]: https://www.drupal.org/project/project_module
 [security advisories]: https://www.drupal.org/security
