@@ -9,11 +9,10 @@ the [Drupal community][Drupal community].
 ## Contributing
 
 Drupal is developed on [Drupal.org][Drupal.org], the home of the international
-Drupal community since 2001! [Drupal.org][Drupal.org] hosts Drupal's [issue
-queue][issue queue], its [GitLab repository][GitLab repository], and its
-[documentation][documentation].
+Drupal community since 2001!
 
-You can learn more about contributing by reading CONTRIBUTING.md.
+[Drupal.org][Drupal.org] hosts Drupal's [GitLab repository][GitLab repository],
+its [issue queue][issue queue], and its [documentation][documentation].
 
 ## Usage
 
@@ -35,12 +34,12 @@ changes for a record of every notable breaking change and new feature since
 ## Security
 
 For a list of security announcements, see the [Security advisories
-page][Security advisories] (available as an [RSS feed][security RSS]). This
+page][Security advisories] (available as [an RSS feed][security RSS]). This
 page also describes how to subscribe to these announcements via email.
 
 For information about the Drupal security process, or to find out how to report
 a potential security issue to the Drupal security team, see the [Security team
-page][https://www.drupal.org/drupal-security-team].
+page][security team].
 
 ## Need a helping hand?
 
@@ -50,7 +49,8 @@ hosting services.
 
 ## Legal matters
 
-Know your rights when using Drupal: See [LICENSE.txt](/core/LICENSE.txt).
+Know your rights when using Drupal by reading Drupal core's
+[license](/core/LICENSE.txt).
 
 Learn about the [Drupal trademark and logo policy here][trademark].
 
@@ -63,6 +63,7 @@ Learn about the [Drupal trademark and logo policy here][trademark].
 [modules]: https://www.drupal.org/project/project_module
 [security advisories]: https://www.drupal.org/security
 [security RSS]: https://www.drupal.org/security/rss.xml
+[security team]: https://www.drupal.org/drupal-security-team
 [service providers]: https://www.drupal.org/drupal-services
 [support]: https://www.drupal.org/support
 [trademark]: https://www.drupal.com/trademark
